@@ -93,10 +93,12 @@
 <br><br>
 </table>
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnasProgrammer17&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkhan1234567&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan1234567&theme=great-gatsby&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AnasProgrammer17&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnasProgrammer17&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasProgrammer17&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <br/>
 
 ### 🔝 Top Contributed Repo
