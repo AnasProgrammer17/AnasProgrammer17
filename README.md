@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
 
